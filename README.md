@@ -1,9 +1,9 @@
 **Name**: DEEPAK SAHU  
 **Company**: CODTECH IT SOLUTIONS  
-**ID**: 
+**ID**: CT08DS176
 **Domain**: EMBEDDED SYSTEMS  
 **Duration**: NOVEMBER 30th, 2024 to DECEMBER 30th, 2024  
-**Mentor**: 
+**Mentor**: Neela Santhosh Kumar
 
 ### Overview of the Project
 The project involves monitoring temperature and humidity levels using a DHT sensor (DHT11 or DHT22) with an Arduino microcontroller. The objective is to learn how to interface the DHT sensor with the Arduino platform and collect real-time temperature and humidity data. The project demonstrates how to read sensor data, process it, and display the values on an LCD or Serial Monitor for further analysis. This is a crucial step toward understanding how environmental sensors work in embedded systems.
